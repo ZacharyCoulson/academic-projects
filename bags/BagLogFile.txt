@@ -1,0 +1,83 @@
+We will now be attempting to remove 4 0's from bag 2
+This operation: '{empty-set} - 0' failed.
+This operation: '{empty-set} - 0' failed.
+This operation: '{empty-set} - 0' failed.
+This operation: '{empty-set} - 0' failed.
+We will now be attempting to add 3 1's to bag 0
+This operation: '{empty-set} + 1' succeeded.
+This operation: '{1} + 1' succeeded.
+This operation: '{1, 1} + 1' succeeded.
+We will now be attempting to add 3 0's to bag 1
+This operation: '{empty-set} + 0' succeeded.
+This operation: '{0} + 0' succeeded.
+This operation: '{0, 0} + 0' succeeded.
+We will now be attempting to remove 1 8's from bag 1
+This operation: '{0, 0, 0} - 8' failed.
+We will now be attempting to add 1 3's to bag 2
+This operation: '{empty-set} + 3' succeeded.
+We will now be attempting to add 1 1's to bag 0
+This operation: '{1, 1, 1} + 1' succeeded.
+We will now be attempting to add 2 2's to bag 0
+This operation: '{1, 1, 1, 1} + 2' succeeded.
+This operation: '{1, 1, 1, 1, 2} + 2' succeeded.
+We will now be attempting to remove 4 0's from bag 1
+This operation: '{0, 0, 0} - 0' succeeded.
+This operation: '{0, 0} - 0' succeeded.
+This operation: '{0} - 0' succeeded.
+This operation: '{empty-set} - 0' failed.
+We will now be attempting to add 1 8's to bag 0
+This operation: '{1, 1, 1, 1, 2, 2} + 8' succeeded.
+We will now be attempting to remove 2 5's from bag 0
+This operation: '{1, 1, 1, 1, 2, 2, 8} - 5' failed.
+This operation: '{1, 1, 1, 1, 2, 2, 8} - 5' failed.
+We will now be attempting to remove 4 5's from bag 2
+This operation: '{3} - 5' failed.
+This operation: '{3} - 5' failed.
+This operation: '{3} - 5' failed.
+This operation: '{3} - 5' failed.
+We will now be attempting to remove 2 8's from bag 2
+This operation: '{3} - 8' failed.
+This operation: '{3} - 8' failed.
+We will now be attempting to add 1 1's to bag 2
+This operation: '{3} + 1' succeeded.
+We will now be attempting to add 1 9's to bag 1
+This operation: '{empty-set} + 9' succeeded.
+We will now be attempting to add 2 7's to bag 0
+This operation: '{1, 1, 1, 1, 2, 2, 8} + 7' succeeded.
+This operation: '{1, 1, 1, 1, 2, 2, 7, 8} + 7' succeeded.
+We will now be attempting to remove 3 8's from bag 1
+This operation: '{9} - 8' failed.
+This operation: '{9} - 8' failed.
+This operation: '{9} - 8' failed.
+We will now be attempting to add 2 2's to bag 2
+This operation: '{1, 3} + 2' succeeded.
+This operation: '{1, 2, 3} + 2' succeeded.
+We will now be attempting to add 1 4's to bag 1
+This operation: '{9} + 4' succeeded.
+We will now be attempting to add 4 0's to bag 0
+This operation: '{1, 1, 1, 1, 2, 2, 7, 7, 8} + 0' succeeded.
+This operation: '{0, 1, 1, 1, 1, 2, 2, 7, 7, 8} + 0' succeeded.
+This operation: '{0, 0, 1, 1, 1, 1, 2, 2, 7, 7, 8} + 0' succeeded.
+This operation: '{0, 0, 0, 1, 1, 1, 1, 2, 2, 7, 7, 8} + 0' succeeded.
+We will now be attempting to add 1 8's to bag 0
+This operation: '{0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 7, 7, 8} + 8' succeeded.
+We will now be attempting to add 4 4's to bag 0
+This operation: '{0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 7, 7, 8, 8} + 4' succeeded.
+This operation: '{0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 4, 7, 7, 8, 8} + 4' succeeded.
+This operation: '{0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 4, 4, 7, 7, 8, 8} + 4' succeeded.
+This operation: '{0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 4, 4, 4, 7, 7, 8, 8} + 4' succeeded.
+We will now be attempting to remove 1 3's from bag 1
+This operation: '{4, 9} - 3' failed.
+We will now be attempting to add 2 2's to bag 2
+This operation: '{1, 2, 2, 3} + 2' succeeded.
+This operation: '{1, 2, 2, 2, 3} + 2' succeeded.
+We will now be attempting to add 4 1's to bag 1
+This operation: '{4, 9} + 1' succeeded.
+This operation: '{1, 4, 9} + 1' succeeded.
+This operation: '{1, 1, 4, 9} + 1' succeeded.
+This operation: '{1, 1, 1, 4, 9} + 1' succeeded.
+We will now be attempting to add 1 3's to bag 1
+This operation: '{1, 1, 1, 1, 4, 9} + 3' succeeded.
+This operation: '{1, 1, 1, 1, 3, 4, 9} - {1, 2, 2, 2, 2, 3}' succeeded.
+This operation: '{0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 4, 4, 4, 4, 7, 7, 8, 8} / {1, 1, 1, 1, 3, 4, 9}' succeeded.
+This operation: '{1, 1, 1, 1, 3, 4, 9} * {1, 2, 2, 2, 2, 3}' succeeded.
